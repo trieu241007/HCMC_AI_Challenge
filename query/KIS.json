@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "query_text": "Người phụ nữ đang lấy 1 thành phẩm có màu trắng từ trong đồ vật màu đỏ",
+      "ocr_text": "",
+      "asr_text": "",
+      "object": {}
+    },
+    {
+      "query_text": "",
+      "ocr_text": "",
+      "asr_text": "",
+      "object": {}
+    }
+  ],
+  "e2_rerank": 1
+}

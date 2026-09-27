@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Node / frontend
+node_modules/
+build/ui/New folder/aic-frontend/build/
+
+# Local data and generated retrieval artifacts
+data/
+data_aic/
+keyframes/
+keyframe_cache/
+*.faiss
+*.npy
+*.npz
+*.mp4
+log/
+submission/
+*.zip
+
+# Local tooling and editor files
+.env
+.env.*
+.idea/
+.vscode/
+.git/
